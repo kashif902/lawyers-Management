@@ -1,0 +1,11 @@
+Create a database with name lrmsdbImport lrmsdb.sql file(given inside the zip package in SQL file folder)
+Run the script http://localhost/lrms
+
+Admin Credential
+Username: admin
+Password: Test@123
+
+Sub-Admin Credential
+Username: akr305
+Password: Test@123
+or you can register new Sub-Admin through admin login
